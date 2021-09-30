@@ -10,7 +10,7 @@ A lightweight implementation of a Qlocktwo Clone using Arduino Uno.
 
 
 <h5>Usage:</h5>
-Time of the RTC module has to be set once, afterwards its periodically read every 5 minutes. Code Block is available in void setup().
+Time of the RTC module has to be set once, afterwards its periodically read every 5 minutes. Code Block is available in void RTC::setup().
 
 <h5>Images:</h5>
 

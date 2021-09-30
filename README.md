@@ -15,13 +15,13 @@ Time of the RTC module has to be set once, afterwards its periodically read ever
 <h5>Images:</h5>
 
 <p align="center">
-	<img src="/media/setup_noglass.jpg" alt="result"
+	<img width="50%" src="/media/setup_noglass.jpg" alt="result"
 	title="result"  />
 </p>
 
 
 <p align="center">
-	<img src="/media/arduino_setup.jpg" alt="result"
+	<img width="50%" src="/media/arduino_setup.jpg" alt="result"
 	title="result"  />
 </p>
 

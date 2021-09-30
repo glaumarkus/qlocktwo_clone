@@ -8,3 +8,10 @@ Materials:
 - cables / misc...
 - multiple wood / glass components
 
+
+Usage:
+Time of the RTC module has to be set once, afterwards its periodically read every 5 minutes. Code Block is available in void setup().
+
+Images:
+
+

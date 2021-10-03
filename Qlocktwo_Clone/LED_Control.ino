@@ -7,9 +7,9 @@
 #define NUM_LEDS 94  
 #define DATA_PIN 13
 
-constexpr int R_VAL = 1;
-constexpr int G_VAL = 1;
-constexpr int B_VAL = 1;
+constexpr int R_VAL = 100;
+constexpr int G_VAL = 100;
+constexpr int B_VAL = 100;
 
 static CRGB leds[NUM_LEDS];
 
